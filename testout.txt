@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stores>
+	<state movieClipName="alberta" displayName="Alberta">
+		<location company="GI Jen's Army Surplus" address1="256 - 13 Street North" address2="" city="Lethbridge" zip="T1H 2R7" phone="(403) 327-6769" linkdisplay="" website="" />
+		<location company="Big Way Surplus" address1="5202 - 50TH STREET" address2="" city="Athabasca" zip="T9S 1S8" phone="(780) 675-1212" linkdisplay="" website="" />
+		<location company="911 Supply & Adventure Gear Inc." address1="4327 A  Manhattan Rd S.E." address2="" city="Calgary" zip="T2G 4B1" phone="(403) 287-1911" linkdisplay="" website="" />
+		<location company="Plastic Soldier Airsoft Ltd." address1="3105A 34 Ave. SE" address2="" city="Calgary" zip="T2B 2M6" phone="(403) 585-4388" linkdisplay="" website="" />
+		<location company="TRADEMARK WORKWEAR INC." address1="91 Skyline Crescent Northeast" address2="" city="CALGARY" zip="T2K 5X2" phone="(403) 275-1171" linkdisplay="" website="" />
+		<location company="Appara Shoes 2010" address1="5123 50th Ave." address2="" city="Cold Lake" zip="T9M 1P3" phone="(780) 594-3222" linkdisplay="" website="" />
+		<location company="Lifestar Medical & Rescue" address1="198-11215 Jasper Ave. NW" address2="" city="Edmonton" zip="T5K 0L5" phone="(780) 474-2405" linkdisplay="" website="" />
+		<location company="Milarm Co. Ltd." address1="10769 - 99 Street" address2="" city="Edmonton" zip="T5H 4H6" phone="(780) 424-5281" linkdisplay="" website="" />
+		<location company="PPCLI KIT SHOP" address1="PO BOX 10500 Stn Forces" address2="" city="Edmonton" zip="T5J 4J5" phone="780-973-4011 5454" linkdisplay="" website="" />
+		<location company="SA Uniform" address1="10704  181street" address2="" city="Edmonton" zip="T5S 1K8" phone="(780) 483-6691" linkdisplay="" website="" />
+		<location company="Semaka Holdings" address1="10007 - 167 Street" address2="" city="Edmonton" zip="T5P 3W3" phone="(780) 443-0543" linkdisplay="" website="" />
+		<location company="SUPPLY SERGEANT" address1="#2686 8882-170 STREET NW" address2="" city="EDMONTON" zip="T5T 4J2" phone="(780) 444-1540" linkdisplay="" website="" />
+		<location company="FRONTLINE TACTICAL SOLUTIONS" address1="168 MAYFLOWER CRESCENT" address2="" city="FORT MCMURRAY" zip="T9K 0H1" phone="(780) 370-8408" linkdisplay="" website="" />
+		<location company="The Kings Coat" address1="5428 - 43 ST." address2="" city="Red Deer" zip="T4N 1C9" phone="(403) 342-1699" linkdisplay="" website="" />
+		<location company="AMYOTTE'S AWARDS & PROMOTIONS CORP." address1="28 MUIR DR." address2="" city="ST. ALBERT" zip="T8N 1G3" phone="(780) 458-0657" linkdisplay="" website="" />
+		<location company="AMYOTTES'S AWARDS CORP. (ONT) LTD." address1="28 MUIR DRIVE" address2="" city="ST. ALBERT" zip="T8N 1G3" phone="(780) 458-0657" linkdisplay="" website="" />
+	</state>
+	
+	<state movieClipName="britishColumbia" displayName="British Columbia">
+		<location company="ARMY & NAVY DEP'T STORE" address1="74 WEST CORDOVA STREET" address2="" city="VANCOUVER" zip="V6B 1C9" phone="(604) 682-6644" linkdisplay="" website="" />
+		<location company="Cammo D.C. Corp." address1="595 Clearwater Way" address2="" city="Coquitlam" zip="V3C 5W5" phone="(607) 780-4036" linkdisplay="" website="" />
+		<location company="D.S. TACTICAL" address1="742 - 12TH ST." address2="" city="NEW WESTMINSTER" zip="V3M 4W5" phone="(604) 524-5867" linkdisplay="" website="" />
+		<location company="JUSTICE INSTITUTE BC" address1="715 MCBRIDE BOULEVARD" address2="" city="NEW WESTMINSTER" zip="V3L 5T4" phone="(604) 528-5870" linkdisplay="" website="" />
+		<location company="Three Vets" address1="2200 Yukon Street" address2="" city="Vancouver" zip="V5Y 3P2" phone="(604) 872-5475" linkdisplay="" website="" />
+		<location company="VANCOUVER TACTICAL SUPPLIES" address1="P.O. BOX 19548" address2="" city="VANCOUVER" zip="V5T 4E7" phone="(604) 831-3106" linkdisplay="" website="" />
+		<location company="M.D. Charlton Co. Ltd." address1="P.O. Box 153" address2="" city="Brentwood Bay" zip="V8M 1R3" phone="(250) 652-5266" linkdisplay="" website="" />
+		<location company="First Response Duty Gear" address1="620 Alberni Ave." address2="" city="Kamloops" zip="V2B 1T1" phone="(250) 554-2763" linkdisplay="" website="" />
+		<location company="Esta Trading Co. Inc." address1="1911 Dayton Street" address2="" city="Kelowna" zip="V1Y 8A7" phone="(250) 868-2286" linkdisplay="" website="" />
+		<location company="Centre City Surplus" address1="1222 - 4th Avenue" address2="" city="Prince George" zip="V2L 3J4" phone="(250) 564-2400" linkdisplay="" website="" />
+		<location company="Mountain Magic Ltd." address1="2393 King George Hwy." address2="" city="South Surrey" zip="V4A 5A4" phone="(604) 535-5182" linkdisplay="" website="" />
+	</state>
+	
+	<state movieClipName="manitoba" displayName="Manitoba">
+		<location company="JO-BROOK FIREARMS" address1="C-909 - 24TH STREET" address2="" city="BRANDON" zip="R7B 1Y5" phone="(204) 727-3552" linkdisplay="" website="" />
+		<location company="UNION SHOE STORE" address1="618 ROSSER AVENUE" address2="" city="BRANDON" zip="R7A 0K7" phone="(204) 727-2806" linkdisplay="" website="" />
+		<location company="CORPORATE SECURITY SUPPLY" address1="891 CENTURY STREET UNIT A" address2="" city="WINNIPEG" zip="R3H 0M3" phone="(204) 989-1000" linkdisplay="" website="" />
+		<location company="Laser Security Ltd." address1="2082 Ness Ave." address2="" city="Winnipeg" zip="R3J 0Z3" phone="(204) 837-7812" linkdisplay="" website="" />
+		<location company="Tough Work Wear" address1="1184 Sanford St." address2="" city="Winnipeg" zip="R3E 2Z9" phone="(204) 775-6498" linkdisplay="" website="" />
+		<location company="DAUPHIN ARMY NAVY STORE" address1="434 1ST. Ave. N.E." address2="" city="Dauphin" zip="R7N 1A9" phone="(204) 638-6721" linkdisplay="" website="" />
+	</state>	
+	
+	<state movieClipName="newBrunswick" displayName="New Brunswick">
+		<location company="PRO-AM OUTFITTERS INC." address1="http://www.proamoutfitters.com" address2="" city="HANWELL" zip="E3C 2B8" phone="(506) 454-8083" linkdisplay="http://www.proamoutfitters.com" website="" />
+		<location company="SERVICE SHOE REPAIR & BOOT SHOP LTD." address1="55 MECHANIC ST." address2="" city="MONCTON" zip="E1C 4V4" phone="(506) 389-3000" linkdisplay="" website="" />
+		<location company="K4 EME CANTEEN" address1="CFB GAGETOWN MAINT COY" address2="" city="OROMOCTO" zip="E2V 4J5" phone="(506) 422-2000" linkdisplay="" website="" />
+		<location company="Wheeler Accessories Ltd." address1="1971 Lincoln Rd" address2="" city="Fredericton" zip="E3B 6C2" phone="(800) 561-3040" linkdisplay="" website="" />
+		<location company="Green-Lee Shoes Ltd." address1="59 Bentley St." address2="" city="Saint John" zip="E2K 1B2" phone="(800) 463-7411" linkdisplay="" website="" />
+	</state>	
+	
+	<state movieClipName="newfoundland" displayName="Newfoundland">
+		<location company="ATLANTIC OILFIELD & INDUSTRIAL SUPPLY" address1="84 GLENCOE DR." address2="" city="MOUNT PEARL" zip="A1N 4S9" phone="(709) 745-7545" linkdisplay="" website="" />
+		<location company="LABRADOR-GRENFELL HEALTH" address1="178-200 WEST STREET" address2="" city="ST. ANTHONY" zip="A0K 4S0" phone="(709) 454-0136" linkdisplay="" website="" />
+	</state>
+		
+	<state movieClipName="novaScotia" displayName="Nova Scotia">	
+		<location company="Responder Training Services" address1="14 Churchill Court" address2="" city="Dartmouth" zip="B2X 1N4" phone="(902) 402-4746" linkdisplay="" website="" />
+		<location company="Uniform Works Limited" address1="10 Akerley Boulevard" address2="" city="Dartmouth" zip="B3B 1J4" phone="(902) 468-5367" linkdisplay="" website="" />
+		<location company="VIKING POLICE & SECURITY CO." address1="192 Joseph Zatzman Dr" address2="" city="Dartmouth" zip="B3B 1N4" phone="(902) 482-7140" linkdisplay="" website="" />
+		<location company="Law Enforcement Outfitters" address1="5426 Portland Place" address2="" city="Halifax" zip="B3K 1A1" phone="(902) 482-4704" linkdisplay="" website="" />
+		<location company="THE ARMY NAVY STORE" address1="2660 AGRICOLA STREET" address2="" city="HALIFAX" zip="B3K 4C9" phone="(902) 454-4330" linkdisplay="" website="" />
+	</state>	
+	
+	<state movieClipName="ontario" displayName="Ontario">
+		<location company="SOLDIER GEAR" address1="3 MASSEY ST." address2="" city="ANGUS" zip="L0M 1B0" phone="(705) 423-1190" linkdisplay="" website="" />
+		<location company="MILLBANK TRADING COMPANY" address1="9988 HIGHWAY #28" address2="" city="APSLEY" zip="K0L 1A0" phone="(705) 656-2111" linkdisplay="" website="" />
+		<location company="Pacific Safety Products Inc." address1="124 Fourth Ave" address2="" city="Arnprior" zip="K7S 0A7" phone="(613) 623-6001" linkdisplay="" website="" />
+		<location company="ANGIE'S OUTDOOR" address1="80 DUNLOP STREET EAST" address2="" city="BARRIE" zip="L4M 1A4" phone="(705) 721-1776" linkdisplay="" website="" />
+		<location company="AFELSKIE SHOES" address1="1957 OPEONGO LINE" address2="" city="BARRY'S BAY" zip="K0J 1B0" phone="(613) 756-2615" linkdisplay="" website="" />
+		<location company="The Army Surplus Store" address1="152 King Street W." address2="" city="Brockville" zip="K6V 3R5" phone="(613) 342-1967" linkdisplay="" website="" />
+		<location company="WORK AUTHORITY" address1="415 Thompson Drive" address2="" city="Cambridge" zip="N1T 2K7" phone="(800) 563-8481" linkdisplay="" website="" />
+		<location company="BECKER SHOES" address1="70 SANFORD FLEMMING DR." address2="" city="COLLINGWOOD" zip="L9Y 4V7" phone="(705) 445-7490" linkdisplay="" website="" />
+		<location company="CW AND COMPANY" address1="44 CAMPBELL ST." address2="" city="COLLINGWOOD" zip="L9Y 2K8" phone="(705) 444-2448" linkdisplay="" website="" />
+		<location company="FRASERS CLOTHES SHOPS" address1="P.O. BOX 276" address2="" city="DEEP RIVER" zip="K0J 1P0" phone="(613) 584-4351" linkdisplay="" website="" />
+		<location company="WASAGA PAINTBALL ADVENTURE INC." address1="3600 VIGO ROAD" address2="" city="ELMVALE" zip="L0L 1P0" phone="(705) 322-6321" linkdisplay="" website="" />
+		<location company="Carol Bond" address1="Osdirect.ca" address2="" city="Georgetown" zip="L7G 5X9" phone="(905) 877-0254" linkdisplay="Osdirect.ca" website="" />
+		<location company="ARGYLL & SUTHERLAND HIGHLANDERS OF CANADA" address1="200 JAMES ST." address2="" city="HAMILTON" zip="L8R 2L1" phone="(289) 700-4392" linkdisplay="" website="" />
+		<location company="Hamilton Tactical" address1="220 Nebo Rd." address2="" city="Hamilton" zip="L8W 2E4" phone="(905) 667-4805" linkdisplay="" website="" />
+		<location company="STURGESS CYCLE" address1="Sturgess Cycle" address2="" city="Hamilton" zip="L8P 1C4" phone="(905) 522-0503" linkdisplay="" website="" />
+		<location company="WOOLCOTT'S SHOES" address1="1050 UPPER JAMES ST." address2="" city="Hamilton" zip="L9C 3A9" phone="(905) 383-2344" linkdisplay="" website="" />
+		<location company="Sole Mates Footwear" address1="5085 Hwy 69 N." address2="" city="Hanmer" zip="P3P 1N7" phone="(705) 969-6120" linkdisplay="" website="" />
+		<location company="O.P.S. Inc." address1="160 4th Avenue" address2="" city="Hanover" zip="N4N 2B3" phone="(519) 364-7901" linkdisplay="" website="" />
+		<location company="Suntrail Outfitters Inc" address1="BOX 29  - HWY 6" address2="" city="HEPWORTH" zip="N0H 1P0" phone="(519) 935-2478" linkdisplay="" website="" />
+		<location company="SAS SMITH ARMY SURPLUS" address1="86 PRINCESS STREET" address2="" city="KINGSTON" zip="K7L 1A8" phone="(613) 546-0305" linkdisplay="" website="" />
+		<location company="FACTORY SHOE" address1="686 VICTORIA ST. NORTH" address2="" city="KITCHENER" zip="N2H 5G1" phone="(519) 743-1569" linkdisplay="" website="" />
+		<location company="GRAND VALLEY INSTITUTION FOR WOMEN" address1="1575 HOMER WATSON" address2="" city="KITCHENER" zip="N2P 2C5" phone="(519) 895-8137" linkdisplay="" website="" />
+		<location company="ZDENO CYCLE" address1="1495 Victoria St. N." address2="" city="Kitchener" zip="N2B 3E4" phone="(519) 745-7010" linkdisplay="" website="" />
+		<location company="BioPed London" address1="607 Wellington Rd. S." address2="" city="London" zip="N6C 4R3" phone="(519) 686-0709" linkdisplay="" website="" />
+		<location company="Homewood Health Products Inc." address1="277 Adelaide St. South" address2="" city="London" zip="N5Z 3K7" phone="(519) 642-1164" linkdisplay="" website="" />
+		<location company="TIER 1 TACTICAL" address1="UNIT 84" address2="" city="LONDON" zip="N5Y 4V8" phone="(519) 951-7946" linkdisplay="" website="" />
+		<location company="911 Gear Canada" address1="68 Northside Road" address2="" city="Markham" zip="L6E 1S5" phone="(416) 432-1515" linkdisplay="" website="" />
+		<location company="TACTICAL OPERATIONS" address1="5660 LINE 49" address2="" city="MONKTON" zip="N0K 1P0" phone="" linkdisplay="" website="" />
+		<location company="OTTAWA SAFETY/INDUSTRIAL" address1="190 COLONNADE RD." address2="" city="NEPEAN" zip="K2E 7J5" phone="(613) 727-0765" linkdisplay="" website="" />
+		<location company="On Duty Equipment Ltd." address1="926213 North Quarry Road" address2="" city="New Liskeard" zip="P0J 1P0" phone="(705) 563-8009" linkdisplay="" website="" />
+		<location company="Brand Name Shoes" address1="7637 Lundys Lane" address2="" city="Niagara Falls" zip="L2H 1H2" phone="(905) 356-0756" linkdisplay="" website="" />
+		<location company="CFB North Bay" address1="15 MANSTON CRES." address2="" city="NORTH BAY" zip="P0H 1P0" phone="(705) 494-2011" linkdisplay="" website="" />
+		<location company="S.W.A.T. SHOP" address1="3271 Dufferin St" address2="" city="North York" zip="M6A 2T4" phone="(416) 256-0040" linkdisplay="" website="" />
+		<location company="SGT. SPLATTER'S" address1="54 WINGOLD AVE." address2="" city="NORTH YORK" zip="M6B 1P5" phone="(416) 781-0991" linkdisplay="" website="" />
+		<location company="NatPat Ltd." address1="3 - 200 Memorial Avenue" address2="" city="Orillia" zip="L3V 5X6" phone="(866) 797-0458" linkdisplay="" website="" />
+		<location company="VALLEY WORKWEAR" address1="Unit 2" address2="" city="Pembroke" zip="K8A 3M2" phone="(613) 735-8290" linkdisplay="" website="" />
+		<location company="1 RCR KITSHOP" address1="377 MENIN RD BLDG Y-101" address2="" city="PETAWAWA" zip="K8H 2X3" phone="(613) 687-5511" linkdisplay="" website="" />
+		<location company="Full Spectrum Gear Inc." address1="1158A Victoria St." address2="" city="Petawawa" zip="K8H 2E7" phone="(613) 687-4757" linkdisplay="" website="" />
+		<location company="ARMY ISSUE SURPLUS" address1="1 STAVEBANK ROAD NORTH" address2="" city="PORT CREDIT" zip="L5G 2T3" phone="(905) 271-1665" linkdisplay="" website="" />
+		<location company="Niagara Quartermaster & Vanwell Distribution Service" address1="PO Box 2131" address2="" city="St. Catharines" zip="L2R 7S2" phone="(800) 661-6136" linkdisplay="" website="" />
+		<location company="TAC-COM DEFENSE" address1="27 Treeview Dr." address2="" city="St. Jacobs" zip="N0B 2N0" phone="(519) 778-7788" linkdisplay="" website="" />
+		<location company="J & R CYCLE" address1="#8166 HWY 26" address2="" city="STAYNER" zip="L0M 1S0" phone="(705) 429-3822" linkdisplay="" website="" />
+		<location company="Army Outfitters" address1="1695 Avenue Road" address2="" city="Toronto" zip="M5M 3Y3" phone="(647) 436-0876" linkdisplay="" website="" />
+		<location company="Tactical Products Canada" address1="736 Kipling Ave." address2="" city="Toronto" zip="M8Z 5G5" phone="(416) 252-4000" linkdisplay="" website="" />
+		<location company="THE SHOE NETWORK" address1="301 Lesmill Road" address2="" city="Toronto" zip="M3B 2V1" phone="(416) 321-5252" linkdisplay="" website="" />
+		<location company="ONE SHOT TACTICAL INC." address1="45 Front St." address2="" city="Trenton" zip="K8V 4N3" phone="(613) 394-5023" linkdisplay="" website="" />
+		<location company="UNDERGROUND PRODUCTZ" address1="949 KEYES DR." address2="" city="WOODSTOCK" zip="N4V 1C3" phone="(519) 913-0882" linkdisplay="" website="" />
+	</state>	
+	
+	<state movieClipName="quebec" displayName="Quebec">
+		<location company="PRE FAIR Camp Imrico Ltee." address1="1055 Louis-Marchand" address2="" city="Beloeil" zip="J3G 6S4" phone="(450) 446-7060" linkdisplay="" website="" />
+		<location company="Uniformes VPC" address1="559B Cure-Boivin" address2="" city="Boisbriand" zip="J7G 2A8" phone="(450) 939-1318" linkdisplay="" website="" />
+		<location company="GARNISON VALCARTIER 5E BNS DU CANADA" address1="5 BNS DU C APPROVISIONNEMENT" address2="" city="COURCELETTE" zip="G0A 4Z0" phone="(418) 844-5000" linkdisplay="" website="" />
+		<location company="Specialiste De La Securite Au Travail (Le)" address1="154 Boul Maloney Est." address2="" city="Gatineau" zip="J8P 1C1" phone="(819) 669-2430" linkdisplay="" website="" />
+		<location company="Surplus D'Armee" address1="121 Boul. St. Joseph" address2="" city="Gatineau" zip="J8Y 3W7" phone="(819) 778-3497" linkdisplay="" website="" />
+		<location company="C.R.A.F.M. Centre RecreatifD'Armes A Feu De Montreal" address1="2206-52nd Ave." address2="" city="Lachine" zip="H8T 2Y3" phone="(514) 635-4867" linkdisplay="" website="" />
+		<location company="R. Nicholls Distributors Inc." address1="2475 De La Province" address2="" city="Longueuil" zip="J4G 1G3" phone="(450) 442-9215" linkdisplay="" website="" />
+		<location company="Collins Safety-Kingston" address1="444 Ave. de LaSalle" address2="" city="Montreal" zip="H1V 2J1" phone="(514) 526-7931" linkdisplay="" website="" />
+		<location company="Electronique Securite Thomas Ltee" address1="4169 Boul. Decarie" address2="" city="Montreal" zip="H4A 3J8" phone="(514) 487-5141" linkdisplay="" website="" />
+		<location company="EQUIPEMENT DE SECURITE UNIVERSEL" address1="6855 ST. JACQUES WEST" address2="" city="MONTREAL" zip="H4B 1V3" phone="(514) 369-6699" linkdisplay="" website="" />
+		<location company="Les Uniformes Moderna" address1="235 rue Beaubien Est" address2="" city="Montreal" zip="H2S 1R5" phone="(514) 279-2016" linkdisplay="" website="" />
+		<location company="UNIFORMES W. GRADINGER LTD." address1="3985 NOTRE DAME OUEST" address2="" city="MONTREAL" zip="H4C 1R2" phone="(514) 932-3353" linkdisplay="" website="" />
+		<location company="Screaming-Eagle" address1="1424 St-Laurent" address2="" city="Montreal" zip="H2X 2S7" phone="(866) 449-2843" linkdisplay="" website="" />
+		<location company="Boutique Militaire Quebec Inc." address1="440 Rue du Pont" address2="" city="Quebec" zip="G1K 9J7" phone="(418) 640-9227" linkdisplay="" website="" />
+		<location company="SURPLUS PONT-ROUGE" address1="25 MARIE DE L'INCARNATION" address2="" city="QUEBEC" zip="G1N 3E5" phone="(418) 271-0203" linkdisplay="" website="" />
+		<location company="CAMSTICK CANADA INC" address1="438 Jacques-Cartier" address2="" city="Shannon" zip="G0A 4N0" phone="(418) 844-9111" linkdisplay="" website="" />
+		<location company="UNIFX UNIFORMS" address1="2450 COHEN STREET" address2="" city="ST. LAURENT" zip="H4R 2N6" phone="(514) 745-3384" linkdisplay="" website="" />
+		<location company="Chaussures 22" address1="4585 Chemin Chambly" address2="" city="St-Hubert" zip="J3Y 3M9" phone="(450) 678-6828" linkdisplay="" website="" />
+		<location company="ANTONIO MOREAU (1984) LTEE" address1="7405 Duplessis" address2="" city="St-Hyacinthe" zip="J2R 1S5" phone="(450) 253-4828" linkdisplay="" website="" />
+		<location company="Bottes 911" address1="3395 rue Ubald-Laforest" address2="" city="Trois-Rivieres" zip="G8Y 4M2" phone="(819) 384-4515" linkdisplay="" website="" />
+	</state>
+		
+	<state movieClipName="saskatchenwan" displayName="Saskatchenwan">
+		<location company="SURPLUS PLUS" address1="2415 11th Avenue" address2="" city="Regina" zip="S4P 0K4" phone="(306) 359-3344" linkdisplay="" website="" />
+		<location company="Ron's The Work Wear Store Ltd." address1="112 - 2ND ST NE" address2="" city="WEYBURN" zip="S4H 0T8" phone="(306) 634-8232" linkdisplay="" website="" />
+		<location company="QUINN THE ESKIMO" address1="207 IDYLWYLD DRIVE SOUTH" address2="" city="Saskatoon" zip="S7M 1L6" phone="(306) 652-3733" linkdisplay="" website="" />
+	</state>
+</stores>

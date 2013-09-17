@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stores>
+<0>GI Jen's Army Surplus</0><1>256 - 13 Street North</1><2>Lethbridge</2><3>AB</3><4>T1H 2R7</4><5>(403) 327-6769</5><6></6>
+<0>Big Way Surplus</0><1>5202 - 50TH STREET</1><2>Athabasca</2><3>Alberta</3><4>T9S 1S8</4><5>(780) 675-1212</5><6></6>
+<0>911 Supply & Adventure Gear Inc.</0><1>4327 A  Manhattan Rd S.E.</1><2>Calgary</2><3>Alberta</3><4>T2G 4B1</4><5>(403) 287-1911</5><6></6>
+<0>Plastic Soldier Airsoft Ltd.</0><1>3105A 34 Ave. SE</1><2>Calgary</2><3>Alberta</3><4>T2B 2M6</4><5>(403) 585-4388</5><6></6>
+<0>TRADEMARK WORKWEAR INC.</0><1>91 Skyline Crescent Northeast</1><2>CALGARY</2><3>ALBERTA</3><4>T2K 5X2</4><5>(403) 275-1171</5><6></6>
+<0>Appara Shoes 2010</0><1>5123 50th Ave.</1><2>Cold Lake</2><3>Alberta</3><4>T9M 1P3</4><5>(780) 594-3222</5><6></6>
+<0>Lifestar Medical & Rescue</0><1>198-11215 Jasper Ave. NW</1><2>Edmonton</2><3>Alberta</3><4>T5K 0L5</4><5>(780) 474-2405</5><6></6>
+<0>Milarm Co. Ltd.</0><1>10769 - 99 Street</1><2>Edmonton</2><3>Alberta</3><4>T5H 4H6</4><5>(780) 424-5281</5><6></6>
+<0>PPCLI KIT SHOP</0><1>PO BOX 10500 Stn Forces</1><2>Edmonton</2><3>Alberta</3><4>T5J 4J5</4><5>780-973-4011 5454</5><6></6>
+<0>SA Uniform</0><1>10704  181street</1><2>Edmonton</2><3>Alberta</3><4>T5S 1K8</4><5>(780) 483-6691</5><6></6>
+<0>Semaka Holdings</0><1>10007 - 167 Street</1><2>Edmonton</2><3>Alberta</3><4>T5P 3W3</4><5>(780) 443-0543</5><6></6>
+<0>SUPPLY SERGEANT</0><1>#2686 8882-170 STREET NW</1><2>EDMONTON</2><3>ALBERTA</3><4>T5T 4J2</4><5>(780) 444-1540</5><6></6>
+<0>FRONTLINE TACTICAL SOLUTIONS</0><1>168 MAYFLOWER CRESCENT</1><2>FORT MCMURRAY</2><3>ALBERTA</3><4>T9K 0H1</4><5>(780) 370-8408</5><6></6>
+<0>The Kings Coat</0><1>5428 - 43 ST.</1><2>Red Deer</2><3>Alberta</3><4>T4N 1C9</4><5>(403) 342-1699</5><6></6>
+<0>AMYOTTE'S AWARDS & PROMOTIONS CORP.</0><1>28 MUIR DR.</1><2>ST. ALBERT</2><3>ALBERTA</3><4>T8N 1G3</4><5>(780) 458-0657</5><6></6>
+<0>AMYOTTES'S AWARDS CORP. (ONT) LTD.</0><1>28 MUIR DRIVE</1><2>ST. ALBERT</2><3>ALBERTA</3><4>T8N 1G3</4><5>(780) 458-0657</5><6></6>
+<0>ARMY & NAVY DEP'T STORE</0><1>74 WEST CORDOVA STREET</1><2>VANCOUVER</2><3>B.C.</3><4>V6B 1C9</4><5>(604) 682-6644</5><6></6>
+<0>Cammo D.C. Corp.</0><1>595 Clearwater Way</1><2>Coquitlam</2><3>BC</3><4>V3C 5W5</4><5>(607) 780-4036</5><6></6>
+<0>D.S. TACTICAL</0><1>742 - 12TH ST.</1><2>NEW WESTMINSTER</2><3>BC</3><4>V3M 4W5</4><5>(604) 524-5867</5><6></6>
+<0>JUSTICE INSTITUTE BC</0><1>715 MCBRIDE BOULEVARD</1><2>NEW WESTMINSTER</2><3>BC</3><4>V3L 5T4</4><5>(604) 528-5870</5><6></6>
+<0>Three Vets</0><1>2200 Yukon Street</1><2>Vancouver</2><3>BC</3><4>V5Y 3P2</4><5>(604) 872-5475</5><6></6>
+<0>VANCOUVER TACTICAL SUPPLIES</0><1>P.O. BOX 19548</1><2>VANCOUVER</2><3>BC</3><4>V5T 4E7</4><5>(604) 831-3106</5><6></6>
+<0>M.D. Charlton Co. Ltd.</0><1>P.O. Box 153</1><2>Brentwood Bay</2><3>British Columbia</3><4>V8M 1R3</4><5>(250) 652-5266</5><6></6>
+<0>First Response Duty Gear</0><1>620 Alberni Ave.</1><2>Kamloops</2><3>British Columbia</3><4>V2B 1T1</4><5>(250) 554-2763</5><6></6>
+<0>Esta Trading Co. Inc.</0><1>1911 Dayton Street</1><2>Kelowna</2><3>British Columbia</3><4>V1Y 8A7</4><5>(250) 868-2286</5><6></6>
+<0>Centre City Surplus</0><1>1222 - 4th Avenue</1><2>Prince George</2><3>British Columbia</3><4>V2L 3J4</4><5>(250) 564-2400</5><6></6>
+<0>Mountain Magic Ltd.</0><1>2393 King George Hwy.</1><2>South Surrey</2><3>British Columbia</3><4>V4A 5A4</4><5>(604) 535-5182</5><6></6>
+<0>JO-BROOK FIREARMS</0><1>C-909 - 24TH STREET</1><2>BRANDON</2><3>MANITOBA</3><4>R7B 1Y5</4><5>(204) 727-3552</5><6></6>
+<0>UNION SHOE STORE</0><1>618 ROSSER AVENUE</1><2>BRANDON</2><3>MANITOBA</3><4>R7A 0K7</4><5>(204) 727-2806</5><6></6>
+<0>CORPORATE SECURITY SUPPLY</0><1>891 CENTURY STREET UNIT A</1><2>WINNIPEG</2><3>MANITOBA</3><4>R3H 0M3</4><5>(204) 989-1000</5><6></6>
+<0>Laser Security Ltd.</0><1>2082 Ness Ave.</1><2>Winnipeg</2><3>Manitoba</3><4>R3J 0Z3</4><5>(204) 837-7812</5><6></6>
+<0>Tough Work Wear</0><1>1184 Sanford St.</1><2>Winnipeg</2><3>Manitoba</3><4>R3E 2Z9</4><5>(204) 775-6498</5><6></6>
+<0>DAUPHIN ARMY NAVY STORE</0><1>434 1ST. Ave. N.E.</1><2>Dauphin</2><3>Manitobia</3><4>R7N 1A9</4><5>(204) 638-6721</5><6></6>
+<0>BASS PRO INC. Change</0><1>SPORTSMAN'S PARK CENTER</1><2>SPRINGFIELD</2><3>MISSOURI</3><4>65898</4><5>(417) 873-5000</5><6></6>
+<0>PRO-AM OUTFITTERS INC.</0><1>http://www.proamoutfitters.com</1><2>HANWELL</2><3>NB</3><4>E3C 2B8</4><5>(506) 454-8083</5><6>http://www.proamoutfitters.com</6>
+<0>SERVICE SHOE REPAIR & BOOT SHOP LTD.</0><1>55 MECHANIC ST.</1><2>MONCTON</2><3>NB</3><4>E1C 4V4</4><5>(506) 389-3000</5><6></6>
+<0>K4 EME CANTEEN</0><1>CFB GAGETOWN MAINT COY</1><2>OROMOCTO</2><3>NB</3><4>E2V 4J5</4><5>(506) 422-2000</5><6></6>
+<0>Wheeler Accessories Ltd.</0><1>1971 Lincoln Rd</1><2>Fredericton</2><3>New Brunswick</3><4>E3B 6C2</4><5>(800) 561-3040</5><6></6>
+<0>Green-Lee Shoes Ltd.</0><1>59 Bentley St.</1><2>Saint John</2><3>New Brunswick</3><4>E2K 1B2</4><5>(800) 463-7411</5><6></6>
+<0>ATLANTIC OILFIELD & INDUSTRIAL SUPPLY</0><1>84 GLENCOE DR.</1><2>MOUNT PEARL</2><3>NEWFOUNDLAND</3><4>A1N 4S9</4><5>(709) 745-7545</5><6></6>
+<0>LABRADOR-GRENFELL HEALTH</0><1>178-200 WEST STREET</1><2>ST. ANTHONY</2><3>NEWFOUNDLAND</3><4>A0K 4S0</4><5>(709) 454-0136</5><6></6>
+<0>Responder Training Services</0><1>14 Churchill Court</1><2>Dartmouth</2><3>Nova Scotia</3><4>B2X 1N4</4><5>(902) 402-4746</5><6></6>
+<0>Uniform Works Limited</0><1>10 Akerley Boulevard</1><2>Dartmouth</2><3>Nova Scotia</3><4>B3B 1J4</4><5>(902) 468-5367</5><6></6>
+<0>VIKING POLICE & SECURITY CO.</0><1>192 Joseph Zatzman Dr</1><2>Dartmouth</2><3>Nova Scotia</3><4>B3B 1N4</4><5>(902) 482-7140</5><6></6>
+<0>Law Enforcement Outfitters</0><1>5426 Portland Place</1><2>Halifax</2><3>Nova Scotia</3><4>B3K 1A1</4><5>(902) 482-4704</5><6></6>
+<0>THE ARMY NAVY STORE</0><1>2660 AGRICOLA STREET</1><2>HALIFAX</2><3>NOVA SCOTIA</3><4>B3K 4C9</4><5>(902) 454-4330</5><6></6>
+<0>SOLDIER GEAR</0><1>3 MASSEY ST.</1><2>ANGUS</2><3>ONTARIO</3><4>L0M 1B0</4><5>(705) 423-1190</5><6></6>
+<0>MILLBANK TRADING COMPANY</0><1>9988 HIGHWAY #28</1><2>APSLEY</2><3>ONTARIO</3><4>K0L 1A0</4><5>(705) 656-2111</5><6></6>
+<0>Pacific Safety Products Inc.</0><1>124 Fourth Ave</1><2>Arnprior</2><3>Ontario</3><4>K7S 0A7</4><5>(613) 623-6001</5><6></6>
+<0>ANGIE'S OUTDOOR</0><1>80 DUNLOP STREET EAST</1><2>BARRIE</2><3>ONTARIO</3><4>L4M 1A4</4><5>(705) 721-1776</5><6></6>
+<0>AFELSKIE SHOES</0><1>1957 OPEONGO LINE</1><2>BARRY'S BAY</2><3>ONTARIO</3><4>K0J 1B0</4><5>(613) 756-2615</5><6></6>
+<0>The Army Surplus Store</0><1>152 King Street W.</1><2>Brockville</2><3>Ontario</3><4>K6V 3R5</4><5>(613) 342-1967</5><6></6>
+<0>WORK AUTHORITY</0><1>415 Thompson Drive</1><2>Cambridge</2><3>Ontario</3><4>N1T 2K7</4><5>(800) 563-8481</5><6></6>
+<0>BECKER SHOES</0><1>70 SANFORD FLEMMING DR.</1><2>COLLINGWOOD</2><3>ONTARIO</3><4>L9Y 4V7</4><5>(705) 445-7490</5><6></6>
+<0>CW AND COMPANY</0><1>44 CAMPBELL ST.</1><2>COLLINGWOOD</2><3>ONTARIO</3><4>L9Y 2K8</4><5>(705) 444-2448</5><6></6>
+<0>FRASERS CLOTHES SHOPS</0><1>P.O. BOX 276</1><2>DEEP RIVER</2><3>ONTARIO</3><4>K0J 1P0</4><5>(613) 584-4351</5><6></6>
+<0>WASAGA PAINTBALL ADVENTURE INC.</0><1>3600 VIGO ROAD</1><2>ELMVALE</2><3>ONTARIO</3><4>L0L 1P0</4><5>(705) 322-6321</5><6></6>
+<0>Carol Bond</0><1>Osdirect.ca</1><2>Georgetown</2><3>Ontario</3><4>L7G 5X9</4><5>(905) 877-0254</5><6>Osdirect.ca</6>
+<0>ARGYLL & SUTHERLAND HIGHLANDERS OF CANADA</0><1>200 JAMES ST.</1><2>HAMILTON</2><3>ONTARIO</3><4>L8R 2L1</4><5>(289) 700-4392</5><6></6>
+<0>Hamilton Tactical</0><1>220 Nebo Rd.</1><2>Hamilton</2><3>Ontario</3><4>L8W 2E4</4><5>(905) 667-4805</5><6></6>
+<0>STURGESS CYCLE</0><1>Sturgess Cycle</1><2>Hamilton</2><3>Ontario</3><4>L8P 1C4</4><5>(905) 522-0503</5><6></6>
+<0>WOOLCOTT'S SHOES</0><1>1050 UPPER JAMES ST.</1><2>Hamilton</2><3>Ontario</3><4>L9C 3A9</4><5>(905) 383-2344</5><6></6>
+<0>Sole Mates Footwear</0><1>5085 Hwy 69 N.</1><2>Hanmer</2><3>Ontario</3><4>P3P 1N7</4><5>(705) 969-6120</5><6></6>
+<0>O.P.S. Inc.</0><1>160 4th Avenue</1><2>Hanover</2><3>Ontario</3><4>N4N 2B3</4><5>(519) 364-7901</5><6></6>
+<0>Suntrail Outfitters Inc</0><1>BOX 29  - HWY 6</1><2>HEPWORTH</2><3>ONTARIO</3><4>N0H 1P0</4><5>(519) 935-2478</5><6></6>
+<0>SAS SMITH ARMY SURPLUS</0><1>86 PRINCESS STREET</1><2>KINGSTON</2><3>ONTARIO</3><4>K7L 1A8</4><5>(613) 546-0305</5><6></6>
+<0>FACTORY SHOE</0><1>686 VICTORIA ST. NORTH</1><2>KITCHENER</2><3>ONTARIO</3><4>N2H 5G1</4><5>(519) 743-1569</5><6></6>
+<0>GRAND VALLEY INSTITUTION FOR WOMEN</0><1>1575 HOMER WATSON</1><2>KITCHENER</2><3>ONTARIO</3><4>N2P 2C5</4><5>(519) 895-8137</5><6></6>
+<0>ZDENO CYCLE</0><1>1495 Victoria St. N.</1><2>Kitchener</2><3>Ontario</3><4>N2B 3E4</4><5>(519) 745-7010</5><6></6>
+<0>BioPed London</0><1>607 Wellington Rd. S.</1><2>London</2><3>Ontario</3><4>N6C 4R3</4><5>(519) 686-0709</5><6></6>
+<0>Homewood Health Products Inc.</0><1>277 Adelaide St. South</1><2>London</2><3>Ontario</3><4>N5Z 3K7</4><5>(519) 642-1164</5><6></6>
+<0>TIER 1 TACTICAL</0><1>UNIT 84</1><2>LONDON</2><3>ONTARIO</3><4>N5Y 4V8</4><5>(519) 951-7946</5><6></6>
+<0>911 Gear Canada</0><1>68 Northside Road</1><2>Markham</2><3>Ontario</3><4>L6E 1S5</4><5>(416) 432-1515</5><6></6>
+<0>TACTICAL OPERATIONS</0><1>5660 LINE 49</1><2>MONKTON</2><3>ONTARIO</3><4>N0K 1P0</4><5></5><6></6>
+<0>OTTAWA SAFETY/INDUSTRIAL</0><1>190 COLONNADE RD.</1><2>NEPEAN</2><3>ONTARIO</3><4>K2E 7J5</4><5>(613) 727-0765</5><6></6>
+<0>On Duty Equipment Ltd.</0><1>926213 North Quarry Road</1><2>New Liskeard</2><3>Ontario</3><4>P0J 1P0</4><5>(705) 563-8009</5><6></6>
+<0>Brand Name Shoes</0><1>7637 Lundys Lane</1><2>Niagara Falls</2><3>Ontario</3><4>L2H 1H2</4><5>(905) 356-0756</5><6></6>
+<0>CFB North Bay</0><1>15 MANSTON CRES.</1><2>NORTH BAY</2><3>ONTARIO</3><4>P0H 1P0</4><5>(705) 494-2011</5><6></6>
+<0>S.W.A.T. SHOP</0><1>3271 Dufferin St</1><2>North York</2><3>Ontario</3><4>M6A 2T4</4><5>(416) 256-0040</5><6></6>
+<0>SGT. SPLATTER'S</0><1>54 WINGOLD AVE.</1><2>NORTH YORK</2><3>ONTARIO</3><4>M6B 1P5</4><5>(416) 781-0991</5><6></6>
+<0>NatPat Ltd.</0><1>3 - 200 Memorial Avenue</1><2>Orillia</2><3>Ontario</3><4>L3V 5X6</4><5>(866) 797-0458</5><6></6>
+<0>VALLEY WORKWEAR</0><1>Unit 2</1><2>Pembroke</2><3>Ontario</3><4>K8A 3M2</4><5>(613) 735-8290</5><6></6>
+<0>1 RCR KITSHOP</0><1>377 MENIN RD BLDG Y-101</1><2>PETAWAWA</2><3>ONTARIO</3><4>K8H 2X3</4><5>(613) 687-5511</5><6></6>
+<0>Full Spectrum Gear Inc.</0><1>1158A Victoria St.</1><2>Petawawa</2><3>Ontario</3><4>K8H 2E7</4><5>(613) 687-4757</5><6></6>
+<0>ARMY ISSUE SURPLUS</0><1>1 STAVEBANK ROAD NORTH</1><2>PORT CREDIT</2><3>ONTARIO</3><4>L5G 2T3</4><5>(905) 271-1665</5><6></6>
+<0>Niagara Quartermaster & Vanwell Distribution Service</0><1>PO Box 2131</1><2>St. Catharines</2><3>Ontario</3><4>L2R 7S2</4><5>(800) 661-6136</5><6></6>
+<0>TAC-COM DEFENSE</0><1>27 Treeview Dr.</1><2>St. Jacobs</2><3>Ontario</3><4>N0B 2N0</4><5>(519) 778-7788</5><6></6>
+<0>J & R CYCLE</0><1>#8166 HWY 26</1><2>STAYNER</2><3>ONTARIO</3><4>L0M 1S0</4><5>(705) 429-3822</5><6></6>
+<0>Army Outfitters</0><1>1695 Avenue Road</1><2>Toronto</2><3>Ontario</3><4>M5M 3Y3</4><5>(647) 436-0876</5><6></6>
+<0>Tactical Products Canada</0><1>736 Kipling Ave.</1><2>Toronto</2><3>Ontario</3><4>M8Z 5G5</4><5>(416) 252-4000</5><6></6>
+<0>THE SHOE NETWORK</0><1>301 Lesmill Road</1><2>Toronto</2><3>Ontario</3><4>M3B 2V1</4><5>(416) 321-5252</5><6></6>
+<0>ONE SHOT TACTICAL INC.</0><1>45 Front St.</1><2>Trenton</2><3>Ontario</3><4>K8V 4N3</4><5>(613) 394-5023</5><6></6>
+<0>UNDERGROUND PRODUCTZ</0><1>949 KEYES DR.</1><2>WOODSTOCK</2><3>ONTARIO</3><4>N4V 1C3</4><5>(519) 913-0882</5><6></6>
+<0>PRE FAIR Camp Imrico Ltee.</0><1>1055 Louis-Marchand</1><2>Beloeil</2><3>Quebec</3><4>J3G 6S4</4><5>(450) 446-7060</5><6></6>
+<0>Uniformes VPC</0><1>559B Cure-Boivin</1><2>Boisbriand</2><3>Quebec</3><4>J7G 2A8</4><5>(450) 939-1318</5><6></6>
+<0>GARNISON VALCARTIER 5E BNS DU CANADA</0><1>5 BNS DU C APPROVISIONNEMENT</1><2>COURCELETTE</2><3>QUEBEC</3><4>G0A 4Z0</4><5>(418) 844-5000</5><6></6>
+<0>Specialiste De La Securite Au Travail (Le)</0><1>154 Boul Maloney Est.</1><2>Gatineau</2><3>Quebec</3><4>J8P 1C1</4><5>(819) 669-2430</5><6></6>
+<0>Surplus D'Armee</0><1>121 Boul. St. Joseph</1><2>Gatineau</2><3>Quebec</3><4>J8Y 3W7</4><5>(819) 778-3497</5><6></6>
+<0>C.R.A.F.M. Centre RecreatifD'Armes A Feu De Montreal</0><1>2206-52nd Ave.</1><2>Lachine</2><3>Quebec</3><4>H8T 2Y3</4><5>(514) 635-4867</5><6></6>
+<0>R. Nicholls Distributors Inc.</0><1>2475 De La Province</1><2>Longueuil</2><3>Quebec</3><4>J4G 1G3</4><5>(450) 442-9215</5><6></6>
+<0>Collins Safety-Kingston</0><1>444 Ave. de LaSalle</1><2>Montreal</2><3>Quebec</3><4>H1V 2J1</4><5>(514) 526-7931</5><6></6>
+<0>Electronique Securite Thomas Ltee</0><1>4169 Boul. Decarie</1><2>Montreal</2><3>Quebec</3><4>H4A 3J8</4><5>(514) 487-5141</5><6></6>
+<0>EQUIPEMENT DE SECURITE UNIVERSEL</0><1>6855 ST. JACQUES WEST</1><2>MONTREAL</2><3>QUEBEC</3><4>H4B 1V3</4><5>(514) 369-6699</5><6></6>
+<0>Les Uniformes Moderna</0><1>235 rue Beaubien Est</1><2>Montreal</2><3>Quebec</3><4>H2S 1R5</4><5>(514) 279-2016</5><6></6>
+<0>UNIFORMES W. GRADINGER LTD.</0><1>3985 NOTRE DAME OUEST</1><2>MONTREAL</2><3>QUEBEC</3><4>H4C 1R2</4><5>(514) 932-3353</5><6></6>
+<0>Screaming-Eagle</0><1>1424 St-Laurent</1><2>Montreal</2><3>Quebec</3><4>H2X 2S7</4><5>(866) 449-2843</5><6></6>
+<0>Boutique Militaire Quebec Inc.</0><1>440 Rue du Pont</1><2>Quebec</2><3>Quebec</3><4>G1K 9J7</4><5>(418) 640-9227</5><6></6>
+<0>SURPLUS PONT-ROUGE</0><1>25 MARIE DE L'INCARNATION</1><2>QUEBEC</2><3>QUEBEC</3><4>G1N 3E5</4><5>(418) 271-0203</5><6></6>
+<0>CAMSTICK CANADA INC</0><1>438 Jacques-Cartier</1><2>Shannon</2><3>Quebec</3><4>G0A 4N0</4><5>(418) 844-9111</5><6></6>
+<0>UNIFX UNIFORMS</0><1>2450 COHEN STREET</1><2>ST. LAURENT</2><3>QUEBEC</3><4>H4R 2N6</4><5>(514) 745-3384</5><6></6>
+<0>Chaussures 22</0><1>4585 Chemin Chambly</1><2>St-Hubert</2><3>Quebec</3><4>J3Y 3M9</4><5>(450) 678-6828</5><6></6>
+<0>ANTONIO MOREAU (1984) LTEE</0><1>7405 Duplessis</1><2>St-Hyacinthe</2><3>Quebec</3><4>J2R 1S5</4><5>(450) 253-4828</5><6></6>
+<0>Bottes 911</0><1>3395 rue Ubald-Laforest</1><2>Trois-Rivieres</2><3>Quebec</3><4>G8Y 4M2</4><5>(819) 384-4515</5><6></6>
+<0>SURPLUS PLUS</0><1>2415 11th Avenue</1><2>Regina</2><3>Sask</3><4>S4P 0K4</4><5>(306) 359-3344</5><6></6>
+<0>Ron's The Work Wear Store Ltd.</0><1>112 - 2ND ST NE</1><2>WEYBURN</2><3>SASK.</3><4>S4H 0T8</4><5>(306) 634-8232</5><6></6>
+<0>QUINN THE ESKIMO</0><1>207 IDYLWYLD DRIVE SOUTH</1><2>Saskatoon</2><3>Saskatchewan</3><4>S7M 1L6</4><5>(306) 652-3733</5><6></6>
+</stores>
